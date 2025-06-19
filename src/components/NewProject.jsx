@@ -45,7 +45,7 @@ export default function NewProject({ onAdd, onCancel }) {
           <li>
             <button
               className="text-stone-800 hover:text-stone-950"
-              onClick={oncancel}
+              onClick={onCancel}
             >
               Cancel
             </button>
